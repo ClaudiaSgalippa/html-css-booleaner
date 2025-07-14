@@ -1,4 +1,6 @@
-/*Prova*/
-p {
-    color: blue;
+/*Logo*/
+#main-header {
+    background-image: url('../img/pattern.png');
+    background-color: rgb(44, 158, 230);
+    background-size: 50%;
 }
