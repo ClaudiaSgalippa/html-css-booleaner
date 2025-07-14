@@ -2,5 +2,15 @@
 #main-header {
     background-image: url('../img/pattern.png');
     background-color: rgb(44, 158, 230);
-    background-size: 50%;
+    background-size: 50%;   
+    line-height: 50px;
+}
+
+#logo {
+    scale: 20%;
+}
+
+/*Utilities*/
+.text-gray {
+    color: #808080;
 }
