@@ -16,12 +16,19 @@
     width: 500px;
 }
 
+/*List*/
+ul {
+    padding-inline-start: 0px;
+    list-style-position: inside;
+}
+
 /*Table*/
 th {
     text-align: left;
     background-color: #4ea0ff;
     color: #fff;
 }
+
 tr {
     background-color: #8fcce4;
 }
